@@ -1,2 +1,3 @@
 # stock-analyzer
-Open-source Python utility to fetch stock data and analyze returns
+
+Utility to fetch historical stock data and compute average daily returns.
